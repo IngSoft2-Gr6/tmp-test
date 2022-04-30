@@ -1,3 +1,25 @@
+### 1.4.0 (2022-04-30)
+
+##### Documentation Changes
+
+* **add:**  to to to to (e953f0e6)
+
+##### New Features
+
+* **wow:**  yaaaaaaaaaaaaaaaaaaaaah (a013731f)
+
+##### Performance Improvements
+
+*  performance! (130e8c6a)
+
+##### Refactors
+
+* **lel:**  some refactoring shit (f79d1482)
+
+##### Code Style Changes
+
+* **test:**  tnnnnn (5cb856c0)
+
 #### 1.2.6 (2022-04-30)
 
 ##### New Features
