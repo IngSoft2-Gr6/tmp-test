@@ -1,3 +1,12 @@
+# 0.3.0 (2022-04-30)
+
+
+### Features
+
+* update Readdme ([4c19e96](https://github.com/IngSoft2-Gr6/tmp-test/commits/4c19e9625e55e53ac2f3eda55280a432924c6136))
+
+
+
 # 0.2.0 (2022-04-30)
 
 change bad
