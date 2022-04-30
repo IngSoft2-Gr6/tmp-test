@@ -10,8 +10,9 @@
     "release:start": "git flow release start $npm_package_version",
     "release:finish": "git flow release finish $npm_package_version",
     "release:bump": "yarn version --no-git-tag-version --no-commit-hooks --no-push",
+    "release:changelog": "changelog",
     "release": "yarn release:start && yarn bump $1 && yarn release:rename",
-    "release:full": "yarn release $1 && git add package.json && git commit -m \"Bump version to $npm_package_version\" && yarn release:finish"
+    "release:full": "yarn release $1 && changelog && git add package.json CHANGELOG.md && git commit -m \"New version: $npm_package_version\" && yarn release:finish"
   },
   "devDependencies": {
     "generate-changelog": "^1.8.0"
