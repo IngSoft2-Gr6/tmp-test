@@ -1,3 +1,22 @@
+# 1.0.0 (2022-04-30)
+
+
+### Features
+
+* **magic:** Update CHANGELOG manually ([1549b47](https://github.com/IngSoft2-Gr6/tmp-test/commits/1549b479671b04f0552117edef6a4cb303f99d16))
+
+
+### BREAKING CHANGES
+
+* **magic:** Testing major
+
+Co-authored-by: HASPIMA <HASPIMA@users.noreply.github.com>
+
+
+HEAD -> release/1.0.0, develop
+
+
+
 # 0.3.0 (2022-04-30)
 
 ### Features
