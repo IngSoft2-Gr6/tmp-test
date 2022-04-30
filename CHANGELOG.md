@@ -1,3 +1,13 @@
+#### 1.2.6 (2022-04-30)
+
+##### New Features
+
+* **pack:**  package complete (1a0900af)
+
+##### Bug Fixes
+
+* **things:**  idk (5a52b213)
+
 # 1.0.0 (2022-04-30)
 
 
