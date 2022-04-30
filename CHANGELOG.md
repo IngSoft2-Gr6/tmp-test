@@ -1,3 +1,12 @@
+## 0.1.1 (2022-04-30)
+
+
+### Bug Fixes
+
+* gitignore ([4dfe41d](https://github.com/IngSoft2-Gr6/tmp-test/commits/4dfe41d98af8c69a65bc0c5cb9e27da225a7d8f8))
+
+
+
 # 0.1.0 (2022-04-30)
 
 
