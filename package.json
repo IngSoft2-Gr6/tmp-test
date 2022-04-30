@@ -1,0 +1,8 @@
+{
+  "name": "test-repo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:IngSoft2-Gr6/tmp-test.git",
+  "author": "SGman98 <bastiangarnica@gmail.com>",
+  "license": "UNLICENSED"
+}
