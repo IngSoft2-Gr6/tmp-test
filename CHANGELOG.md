@@ -1,3 +1,9 @@
+#### 2.0.2 (2022-05-01)
+
+##### Bug Fixes
+
+* **to:**  new ([cd7cbf04](https://github.com/IngSoft2-Gr6/tmp-test/commit/cd7cbf04c2d5cfd98737490a34d06ca1b0630322))
+
 ## 3.0.0 (2022-05-01)
 
 ##### New Features
