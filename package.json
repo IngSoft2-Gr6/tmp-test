@@ -1,6 +1,6 @@
 {
   "name": "test-repo",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "main": "index.js",
   "repository": "https://github.com/IngSoft2-Gr6/tmp-test",
   "author": "SGman98 <bastiangarnica@gmail.com>",
